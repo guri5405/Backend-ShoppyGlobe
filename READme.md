@@ -47,8 +47,12 @@ POST /login: Log in a user and return a JWT token for authorization.
 
 # Tech Stack
 Node.js: JavaScript runtime for backend development.
+
 Express.js: Web application framework for routing and middleware.
+
 MongoDB: NoSQL database to store products and cart items.
+
 JWT (JSON Web Tokens): Used for secure user authentication.
+
 ThunderClient: A lightweight API testing tool.
 
