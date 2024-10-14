@@ -52,30 +52,3 @@ MongoDB: NoSQL database to store products and cart items.
 JWT (JSON Web Tokens): Used for secure user authentication.
 ThunderClient: A lightweight API testing tool.
 
-# screenshots:
-
- ![alt text](cartscreenshotforunauthorizedtoken.png)
-
-![alt text](cartadditemunauthorizedtoken.png)
-
-![alt text](cartdeleteitemunautjorizedtoken.png)
-
-![alt text](cartpatchupdateunauthorizedtoken.png)
-
-![alt text](productsgetmethod.png)
-
-![alt text](singleproductgetmethod.png)
-
-![alt text](productaddpostmethod.png)
-
-![alt text](productdeletemethod.png)
-
-![alt text](productupdatebyputmethod.png)
-
-![alt text](userregisterbypostmethod.png)
-
-![alt text](userlogincheckbypostmethod.png)
-
-![alt text](productcreate.png)
-
-![alt text](mongodbdatabaseforproducts.png)
