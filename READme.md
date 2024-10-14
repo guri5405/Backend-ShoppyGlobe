@@ -16,12 +16,12 @@ Add products to the cart.
 Update product quantities in the cart.
 Remove products from the cart.
 
-3. User Authentication:
+3.User Authentication:
 Register new users.
 Login users and return JWT tokens for authenticated actions.
 Protect cart routes so only logged-in users can manage their carts.
 
-4. MongoDB Integration:
+4.MongoDB Integration:
 Store and manage product and cart data using MongoDB.
 Perform full CRUD operations on product and cart collections.
 
